@@ -9,5 +9,9 @@ Certificate proving my participation in the university based scientific project 
 
 My CVs in russian and english languages respectively.
 
+# Pozdnyakov hypothesis of logyield's normal distribution.pdf
+My thesis paper in statistic which i aced. The topic was about checking the hypothesis about tickers' of Moscow Stock Market logyield distribution is normal with Jarque-Bera criteria. It is in russian but has screenchosts from jupyter notebook.
+
+
 # Pozdnyakov Customer Churn prediction on TelCo dataset.pdf
 My thesis paper in Machine Learning which i also aced. The topic was about analysis and prediction of customer churn on any chosen dataset. Sadly, also in Russian but has screenshotts from my Google Collab.
