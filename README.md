@@ -8,3 +8,6 @@ Certificate proving my participation in the university based scientific project 
 # PozdnyakovArseniyCV_RU and PozdnyakovArseniyCV_EN:
 
 My CVs in russian and english languages respectively.
+
+# Pozdnyakov Customer Churn prediction on TelCo dataset.pdf
+My thesis paper in Machine Learning which i also aced. The topic was about analysis and prediction of customer churn on any chosen dataset. Sadly, also in Russian but has screenshotts from my Google Collab.
